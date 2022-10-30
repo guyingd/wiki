@@ -89,9 +89,9 @@ const config = {
       announcementBar: {
         id: "support_us",
         content:
-          "I am currently learning TypeScript and building a RESTful API...",
-        backgroundColor: "#fafbfc",
-        textColor: "#091E42",
+          "wiki初步完成，但暂未编写机器人相关内容...",
+        backgroundColor: "#169b90",
+        textColor: "#1fdece",
         isCloseable: true,
       },
       navbar: {
