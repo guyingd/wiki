@@ -1,4 +1,4 @@
-# Bruce Wiki
+# Wiki
 
 This is my personal wiki website for recording web development knowledge.
 
